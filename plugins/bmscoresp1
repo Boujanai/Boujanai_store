@@ -1,0 +1,7 @@
+---
+slug: :bmscoresp1
+version: '1.0'
+author: Nakahara
+name: beatmania score player 1
+description: 投稿ボックスに書かれた内容をbeatmaniaの譜面に変換します. 現状1Pのみ対応です.
+repository: git://github.com/Boujanai/bmscoresp1.git
