@@ -1,0 +1,10 @@
+* なにこれ
+  中原(Boujanai)のプラグインを追加するプラグインです.
+
+* インストール方法
+  以下のコマンドを実行すればインストールできます.
+
+  : $ mkdir ~/.mikutter/plugin && git clone git://github.com/Boujanai/Boujanai_store.git ~/.mikutter/plugin/Boujanai_store
+
+* その他
+  toshi_a氏による"toshi_a_store"を編集して作成しています.
