@@ -3,7 +3,7 @@ slug: :Boujanai_store
 depends:
   mikutter: 0.2.1.1119
   plugin:
-    - mikustore
+  - mikustore
 version: '1.1'
 author: Boujanai
 name: Boujanai's store
